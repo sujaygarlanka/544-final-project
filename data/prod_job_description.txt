@@ -1,0 +1,43 @@
+Job Overview
+Role Summary
+This role is responsible for initiation, management, and delivery of multiple, high-profile projects for PCAOB divisions and stakeholders. As a contractor positioned the Agile Project Management Organization (PMO) within the Office of Data, Security, and Technology (ODST), this person will be working with other Project Managers, Scrum Masters and the Manager, Portfolio in the Agile PMO to ensure the successful prioritization, resourcing, and implementation of multiple ongoing projects in an Agile environment.
+Responsibilities
+·       Works closely with Project Managers and Scrum Masters to ensure high-quality project delivery within an established project schedule, scope, and budget.
+·       Ensures teams deliver according to project plan and schedule.
+·       Participates in Agile ceremonies and planning, including stand-up meetings, sprint demos, and retrospectives.
+·       Participates and helps facilitate Scrum of Scrums meetings to prioritize and schedule ODST’s portfolio of work.
+·       Participates in business requirement analysis sessions and contributes to project plan development, including setting critical milestones and allocating delivery resources.
+·       Defines project milestones while working with business stakeholders, business partners, PMO staff, and technical managers to build delivery timeline.
+·       Supports PMO Management Team in achieving project alignment with PCAOB strategic priorities and delivery resource availability.
+·       Maintains a strategic perspective of business drivers and technology capabilities.
+·       Manages project risks and develops mitigation plans to ensure on-time delivery.
+·       Acts as the liaison between project delivery teams, management, and business stakeholders while communicating through Scrum Masters and Business Partners.
+·       Contributes to monthly, quarterly, and on-demand report from the PMO, for a wide variety of audiences, including senior leadership.
+·       Performs vendor/contract management responsibilities, including managing external vendor/contract relationships, coordinating the vendor/contract selection processes, and monitoring vendor/contract performance.
+Required Qualifications
+Qualifications
+·       Bachelor’s degree or equivalent experience required in Information Technology or a related field.
+·       Certified Project Management Professional (PMP), Scrum Master (CSM), Certified Scrum Professional (CSP), Certified Product Owner (CSPO), Certified Executive Coach (CEC), or equivalent professional certification preferred.
+·       Minimum of 7+ years of experience with agile practices, patterns, and techniques.
+·       Minimum of 7+ years of experience managing information technology projects.
+·       Minimum of 7+ years of professional experience in an IT environment.
+·       Demonstrated project management experience in an agile environment and ability to work on multiple priorities/projects simultaneously without impact to quality of work.
+·       Experience using both traditional waterfall and agile project management methodologies.
+·       Demonstrated experience in task management, risk management, and scope management.
+·       Ability to communicate about technical matters with business stakeholders and business matters with technical stakeholders.
+·       Experience with delivery methodologies in a fast-paced, complex environment – i.e., Scrum, SAFe, Extreme Programming.
+·       Experience with project management tools – i.e., MS Project, Atlassian Jira, SharePoint.
+·       Must have experience managing vendors/contractors.
+·       Must have experience establishing and communicating best practices.
+·       Must have experience with budget and cost management, as well as contract/procurement processes.
+·       Experience operating in a community of practice model strongly preferred.
+·       A self-starter able to administer a number of open, ongoing assignments at any one time, where some assignments are routinely unstructured, requiring autonomy and independent judgment. Ability to clearly articulate a position with sound logic, supporting empirical evidence, and impartiality.
+·       Ability to effectively represent the organization to a variety of both internal and external constituencies.
+·       Superior verbal and written communication skills.
+Desired Qualifications
+Qualifications
+·       Bachelor’s degree or equivalent experience required in Information Technology or a related field.
+·       Certified Project Management Professional (PMP), Scrum Master (CSM), Certified Scrum Professional (CSP), Certified Product Owner (CSPO), Certified Executive Coach (CEC), or equivalent professional certification preferred.
+Additional Requirements
+Experience managing a ServiceNow implementation is preferred.
+Position is primarily remote, but the candidate must live in the Washington DC metro area since there will be occasional in-person meetings in the PCAOB Washington DC and Ashburn offices.
